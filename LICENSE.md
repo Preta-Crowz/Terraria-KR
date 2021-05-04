@@ -2,7 +2,7 @@
 Customed License for Preta-Crowz/Terraria-KR
 Version 1, 4 May 2021 (KST/JST)
 ```
-Copyright (C) 2021 SiroDev, https://siro.dev
+Copyright (C) 2021 SiroDev, https://siro.dev  
 This is customed license to Preta-Crowz/Terraria-KR and can not be modified or distributed to use on other repository.
 
 ```
