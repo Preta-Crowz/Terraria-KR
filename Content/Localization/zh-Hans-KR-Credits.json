@@ -1,0 +1,169 @@
+{
+    "CreditsRollCategory_BusinessDevelopment": {
+        "1": "Business Development",
+        "2": "Ted \u201cLoki\u201d Murphy",
+        "3": "David \u201cD-Town\u201d Phelps"
+    },
+    "CreditsRollCategory_Creator": {
+        "1": "Creator",
+        "2": "Andrew \u201cRedigit\u201d Spinks"
+    },
+    "CreditsRollCategory_Designer": {
+        "1": "Designer",
+        "2": "Andrew \u201cRedigit\u201d Spinks",
+        "3": "Whitney \u201cCenx\u201d Spinks",
+        "4": "Yorai \u201cYoraiz0r\u201d Omer"
+    },
+    "CreditsRollCategory_Dialog": {
+        "1": "Dialog",
+        "2": "James \u201cLazure\u201d Hayes",
+        "3": "Jeremy \u201cBlue\u201d Guerrette",
+        "4": "Dustin \u201cSplugen\u201d Gunter"
+    },
+    "CreditsRollCategory_EndingNotes": {
+        "1": "Thank you for playing!"
+    },
+    "CreditsRollCategory_ExecutiveProducer": {
+        "1": "Executive Producer",
+        "2": "Whitney \u201cCenx\u201d Spinks"
+    },
+    "CreditsRollCategory_Graphics": {
+        "1": "Graphics",
+        "10": "Sarah \u201cWaffles\u201d Data",
+        "2": "Victor \u201cCrowno\u201d Moura",
+        "3": "James \u201cLazure\u201d Hayes",
+        "4": "Jim Tommy Myhre \u201cJimmarn\u201d Kjexrud",
+        "5": "Andrew \u201cRedigit\u201d Spinks",
+        "6": "Will \u201cPhlebas\u201d Garner",
+        "7": "Finn \u201cTiy\u201d Brice",
+        "8": "Aaron \u201cAaronC\u201d Craig",
+        "9": "Gabriel \u201cRed Yoshi\u201d Kiesshau"
+    },
+    "CreditsRollCategory_Marketing": {
+        "1": "Marketing",
+        "2": "Ted \u201cLoki\u201d Murphy"
+    },
+    "CreditsRollCategory_Music": {
+        "1": "Music",
+        "2": "Scott Lloyd Shelly"
+    },
+    "CreditsRollCategory_Playtesting": {
+        "1": "Playtesting",
+        "10": "Brandon \u201crbrandon\u201d Kime",
+        "11": "Clara Kane",
+        "12": "Brian \u201cBlahblahbal\u201d Hansen",
+        "13": "Jay \u201cjeckel\u201d Jeckel",
+        "14": "Michael \u201ckelp\u201d McCarthy",
+        "15": "Carwyn \u201cAeroblop\u201d Dalrymple",
+        "16": "Adrian \u201cUnrealmegashark\u201d Wheeler",
+        "17": "Matthew \u201cOmnir\u201d Hunnicutt",
+        "18": "Tsukina \u201cTsuki\u201d Nakata",
+        "19": "Suw \u201cSuweeka\u201d Gutierrez",
+        "2": "Atri \u201cm4sterbr0s\u201d Maharaj",
+        "20": "Joshua \u201cscizor300\u201d Wubker",
+        "21": "Michael \u201cshockah\u201d Dolas",
+        "22": "Tyler \u201cBurnZeZ\u201d Whiteman",
+        "23": "Peter \u201cDoylee\u201d Doyle",
+        "24": "Kyle \u201cKley\u201d Hodge",
+        "25": "Steven \u201cTwitchy\u201d French",
+        "26": "Anodomani",
+        "27": "Igor \u201cConker\u201d Magi Marinho",
+        "28": "Cheah Jun Siang",
+        "29": "Zach \u201cOlink\u201d Piispanen",
+        "3": "Brian \u201cTGS\u201d Gilliford",
+        "30": "Lisa \u201cLils\u201d Chiu",
+        "31": "iRandomness",
+        "32": "Kaleb \u201cJesusLlama\u201d Regalado",
+        "33": "Elias \u201cElbow\u201d Naddaf",
+        "34": "Jonathan \u201cFallingSnow\u201d Poholarz",
+        "35": "Brandon Thomas",
+        "36": "Daniel \u201cDMF\u201d Faria",
+        "37": "Luna Meier",
+        "38": "Robert \u201cqig\u201d Buchanan",
+        "39": "Alexaunder \u201cas303298\u201d Savoy",
+        "4": "Mike \u201cTrinityFlash\u201d Dunn",
+        "40": "Alexander \u201cVandarx\u201d Reaves",
+        "41": "QEM - \u201cMystery\u201d",
+        "42": "Bal\u00e1zs \u201cMamaluigi\u201d Makai",
+        "43": "Daniel \u201cGarro\u201d Berner",
+        "44": "Tyler \u201cQuill\u201d Warr",
+        "45": "Andrew \u201cAndydark\u201d Windmiller",
+        "46": "Steven \u201cppowersteef\u201d Logghe",
+        "47": "Michele \u201cW1K\u201d Nunziato",
+        "48": "Chris \u201cCriddle\u201d Rohde",
+        "49": "Kaz \u201cKazzymodus\u201d Tollenaar",
+        "5": "William \u201cIgnoritus\u201d Coffey",
+        "50": "Sam \u201cdarthmorf\u201d Poirier",
+        "51": "John \u201cAurora3500\u201d Witzig",
+        "52": "Harley \u201cAcamaeda\u201d White",
+        "53": "Tristan \u201cDiscipile\u201d Shabbick",
+        "54": "Evan \u201cAntithesis\u201d Kirkpatrick ",
+        "55": "Keven \u201cWaze3174\u201d Chastenay",
+        "56": "Benjamin \u201cJenosis\u201d Hook",
+        "57": "Connor \u201cDarthkitten\u201d Schneider",
+        "58": "Zach \u201cVulpes Inculta\u201d Yurek",
+        "59": "Shane \u201cSigma\u201d Grimson-Smith",
+        "6": "Valtteri Nieminen",
+        "60": "James \u201cKhaios\u201d Sterling",
+        "61": "Xavier \u201cXman101\u201d Calder",
+        "62": "Cynthia \u201cSerenity\u201d Germaine",
+        "63": "W. \u201cAltermaven\u201d Black",
+        "64": "Midnaait",
+        "65": "ManaUser",
+        "66": "Unit One",
+        "67": "General Milky",
+        "68": "Tunnel King",
+        "69": "Chris Ness",
+        "7": "Ryan \u201cNamyrr\u201d Le",
+        "70": "Yrimir",
+        "8": "Gabriel \u201cRed Yoshi\u201d Kiesshau",
+        "9": "Ragnor \u201cDevalaous\u201d Berntsen"
+    },
+    "CreditsRollCategory_Programming": {
+        "1": "Programming",
+        "2": "Yorai \u201cYoraiz0r\u201d Omer",
+        "3": "Andrew \u201cRedigit\u201d Spinks",
+        "4": "Chris \u201cSkiphs\u201d Bednarz",
+        "5": "Charles \u201cGrox\u201d Hanrahan",
+        "6": "Jason \u201cLeinfors\u201d Parker",
+        "7": "Jason \u201cSolsund\u201d Berg"
+    },
+    "CreditsRollCategory_PublicRelations": {
+        "1": "Public Relations",
+        "2": "Amanda \u201csafeman\u201d Powell"
+    },
+    "CreditsRollCategory_QualityAssurance": {
+        "1": "Quality Assurance",
+        "2": "Jason \u201cLeinfors\u201d Parker",
+        "3": "Crystal \u201cGhostar\u201d Ironheart",
+        "4": "Houston \u201cFood Barbarian\u201d Lawson",
+        "5": "Olivia \u201cArkhayla\u201d Cres",
+        "6": "Mike \u201c0x33\u201d Johnson"
+    },
+    "CreditsRollCategory_Sound": {
+        "1": "Sound",
+        "2": "Morten Lund S\u00f8egaard",
+        "3": "Jens Kiilstofte",
+        "4": "Pond5.com",
+        "5": "SoundSnap.com"
+    },
+    "CreditsRollCategory_SpecialThanksto": {
+        "1": "Special Thanks to",
+        "10": "Markus \u201cNotch\u201d Persson",
+        "11": "Augusta Butlin",
+        "12": "Ethan \u201cflibitijibibo\u201d Lee",
+        "2": "The Torch God",
+        "3": "Ben \u201cColdwin\u201d Spaulding",
+        "4": "Kane Hart",
+        "5": "James \u201cChippy\u201d Bennett",
+        "6": "Peter \u201cPedguin\u201d Mann",
+        "7": "Brandon Reinhart",
+        "8": "Nathan \u201cRartrin\u201d Stonestreet",
+        "9": "Lord Gaben"
+    },
+    "CreditsRollCategory_Webmaster": {
+        "1": "Webmaster",
+        "2": "Justin \u201cGrumpy Squid\u201d Coplen",
+        "3": "Chris \u201cSkiphs\u201d Bednarz"
+    }
+}
