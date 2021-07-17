@@ -1,0 +1,30 @@
+{
+    "PainterSpecialText": {
+        "Graveyard1": "I paint walls and furniture, not bones! It isn't Dia de Muertos!",
+        "Graveyard2": "What a dreary place... it sure could use a splash of color, huh?",
+        "Party": "I tried having a paintball fight, but everyone wanted food and decorations instead.",
+        "Rain1": "Rain is my worst nightmare. It literally rinses out all my hard work!",
+        "Rain2": "I painted a mural on this wall just a moment ago. Shoulda bought a weather radio!",
+        "Storm1": "When the thunder rolls, and the lightning strikes... it really brings out the colors on the furniture.",
+        "Storm2": "Blink and you'll miss it. The brightest colors stand out when the lightning flashes.",
+        "Windy1": "Feel that draft coming through? It's wafting paint fumes all over the place.",
+        "Windy2": "This wind storm just blew all the fresh paint right off the wall!"
+    },
+    "TownNPCMood_Painter": {
+        "Content": "Yeah, I might be in a good mood. What's it to ya?",
+        "DislikeBiome": "Why don't I like {BiomeName}? Because it's borin'. Green? Brown? That's it?",
+        "DislikeCrowded": "I don't like all these people around makin' noise when I'm painting.",
+        "DislikeNPC": "{NPCName} is just too bland for my tastes, I dislike associating with dull types.",
+        "FarFromHome": "I need more paint, but my flat is too far, ya?",
+        "HateBiome": "Woah, {BiomeName} is disgusting, get me outta here!",
+        "HateCrowded": "I hate noisy crowds, when will I get some peace and quiet?",
+        "HateNPC": "I hate being around {NPCName}.",
+        "LikeBiome": "There are many ingredients for mixin' new paint in {BiomeName}, and the pretty view don't hurt either!",
+        "LikeNPC": "{NPCName} and I like the same shade of pink! That's a friend, in my book!",
+        "LikeNPC_Princess": "{NPCName} commissioned me to paint a mural on the roof of her throne room!",
+        "LoveBiome": "I love {BiomeName}.",
+        "LoveNPC": "I would really love to paint {NPCName}... because of the vivid colors, of course!",
+        "LoveSpace": "This serene living space has all the quiet I need to focus on my mural.",
+        "NoHome": "I ain't got a place to stay!"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "MerchantSpecialText": {
+        "Graveyard1": "This eerie atmosphere is bad for business!",
+        "Graveyard2": "This is a terrible location... I can't sell my wares to the dead!",
+        "Party": "You know what would be the best way to party? Buying things for others, specifically from me.",
+        "Rain1": "Umbrellas! Umbrellas! Get your half-off umbrellas!",
+        "Rain2": "How dreary! Lighten the mood with 99 torches!",
+        "Storm1": "Wanna buy a lightning rod? Oh, seems I'm out of stock.",
+        "Storm2": "Storms rollin' in... how 'bout you come in and buy something?",
+        "Windy1": "What a blustery day! Stay awhile, and buy a thing or two.",
+        "Windy2": "I used slime glue to keep my hat from blowing away! Perhaps I can sell you some for a couple gold coins..."
+    },
+    "TownNPCMood_Merchant": {
+        "Content": "I'm feeling successful! Want to buy something?",
+        "DislikeBiome": "Hmm, {BiomeName} is a terrible place for business, I don't like it.",
+        "DislikeCrowded": "The number of neighbors has me a little unsettled.",
+        "DislikeNPC": "I dislike {NPCName}, too frugal and doesn't ever buy my things.",
+        "FarFromHome": "Boy, I need to make my way back to my merchandise!",
+        "HateBiome": "I don't think I can sell goods to monsters in {BiomeName}!",
+        "HateCrowded": "I hate how many people hang around, but none of them buy anything!",
+        "HateNPC": "I hate {NPCName}'s terrible personality!",
+        "LikeBiome": "I like the scenery in {BiomeName}, a good view attracts customers!",
+        "LikeNPC": "{NPCName} makes loads of money, I like deep pockets.",
+        "LikeNPC_Princess": "{NPCName} could buy out my whole shop! Pleasant to talk to, as well.",
+        "LoveBiome": "I love {BiomeName}.",
+        "LoveNPC": "I love being around {NPCName}.",
+        "LoveSpace": "This is nice, lots of privacy to store my wares.",
+        "NoHome": "I don't have a place to set up shop, friend."
+    }
+}

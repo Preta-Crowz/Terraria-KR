@@ -1,0 +1,33 @@
+{
+    "NurseChatter": {
+        "Chatter_1": "I keep asking for wine, but all {Bartender} gives me are mugs of ale."
+    },
+    "NurseSpecialText": {
+        "Graveyard1": "Ahh!! I'd rather be working at an abandoned hospital than hanging around here!",
+        "Graveyard2": "This place creeps me out, and I can't treat dead patients!",
+        "Party": "No, I will not tell you how many candles are on my cake.",
+        "Rain1": "If you stay out there too long, you'll catch a cold!",
+        "Rain2": "Great! Now my uniform is all wet. Stop staring!",
+        "Storm1": "I do not perform shock therapy, just go stand outside under a tree!",
+        "Storm2": "Just stay inside! I've already treated too many electrocuted patients today.",
+        "Windy1": "This breeze is really extra right now! Beware of flying needles.",
+        "Windy2": "I've been chasing my medical instruments all day. This gale is keeping me fit!"
+    },
+    "TownNPCMood_Nurse": {
+        "Content": "My vital signs are normal, if that's what you're asking.",
+        "DislikeBiome": "Eww, I don't like {BiomeName}'s propensity for illness.",
+        "DislikeCrowded": "Hey, I dislike the lack of social distancing here.",
+        "DislikeNPC": "I don't like {NPCName} that much, kinda weirds me out.",
+        "FarFromHome": "I'm TOO FAR from my house, I hate all this walking.",
+        "HateBiome": "Yuck, {BiomeName} is extremely putrid and filthy, it'll make me sick!",
+        "HateCrowded": "UGH, I hate how unhealthy it is to cram so many people in one place!",
+        "HateNPC": "Oh, I hate treating {NPCName}, so difficult!",
+        "LikeBiome": "I like how {BiomeName} is a beautiful place to get daily exercise.",
+        "LikeNPC": "{NPCName} is a smart and likeable goof.",
+        "LikeNPC_Princess": "I accidentally dislocated {NPCName}'s shoulder during a check-up, and she apologized to ME for the inconvenience!",
+        "LoveBiome": "I love {BiomeName}.",
+        "LoveNPC": "What? {NPCName}? I don't have a crush! I don't! Shut up!",
+        "LoveSpace": "These digs are great - loving the personal space.",
+        "NoHome": "Tch, not having a house REALLY puts me in a bad mood."
+    }
+}

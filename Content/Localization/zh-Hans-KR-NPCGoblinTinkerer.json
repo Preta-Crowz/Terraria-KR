@@ -1,0 +1,33 @@
+{
+    "GoblinTinkererChatter": {
+        "Chatter_1": "You know, these Etherian Goblins are nothing like my people. Really rowdy bunch. Not that my people are much better..."
+    },
+    "GoblinTinkererSpecialText": {
+        "Graveyard1": "I'm working on a Photon Sack. It's an invention to trap all the ghasts lurking around outside!",
+        "Graveyard2": "The constant moaning and ear-piercing screeching noises are distracting me from my work!",
+        "Party": "Goblin parties are a lot like humans. They both have games like \"Pin the Blame on the Human\" er... I don't play that game at my parties.",
+        "Rain1": "All this rainfall makes it hard to see. I should tinker my goggles with a pair of windshield wipers.",
+        "Rain2": "Humans are a lot taller than goblins. When it floods, we are always in big trouble!",
+        "Storm1": "I'm working on an invention that will harness the energy being released around us!",
+        "Storm2": "Most goblins hate thunderstorms. Probably because they carry so many spiky balls.",
+        "Windy1": "This weather is the reason why I wear goggles! I can't have dirt and sand blowing in my eyes.",
+        "Windy2": "Now would be a great time to tinker a pinwheel accessory!"
+    },
+    "TownNPCMood_GoblinTinkerer": {
+        "Content": "Feelings are currently nominal.",
+        "DislikeBiome": "I don't like {BiomeName}, it is filled with loud, annoying pests that get in the way of my work!",
+        "DislikeCrowded": "There appears to be an unlikeable amount of humans gathering around me, hm?",
+        "DislikeNPC": "I detect eerie vibes from {NPCName}, as if they contain dark secrets. I don't like the feeling.",
+        "FarFromHome": "I want to work on my new invention, but my house is way over there!",
+        "HateBiome": "I hate {BiomeName}, I cannot put merge these trinkets into one piece if I'm fighting to keep myself that way!",
+        "HateCrowded": "This crowding triggers bad memories of goblin war camps, I really hate it.",
+        "HateNPC": "I really hate how {NPCName} humiliated me, all because male goblins cannot grow real hair!",
+        "LikeBiome": "Ahh, {BiomeName} is a nice, quiet place to construct more gadgets. Major like-age!",
+        "LikeNPC": "{NPCName} understands how fun it is to mix things together, I can respect that!",
+        "LikeNPC_Princess": "{NPCName} likes my inventions, and says all friendly goblins are welcome!",
+        "LoveBiome": "I love {BiomeName}.",
+        "LoveNPC": "{NPCName} makes my cardiac core function improperly, it appears I love how that feels!",
+        "LoveSpace": "Perfect, the lack of annoying neighbors adequately meet my needs.",
+        "NoHome": "Goblins don't normally need nice homes, but I'm not like most goblins."
+    }
+}

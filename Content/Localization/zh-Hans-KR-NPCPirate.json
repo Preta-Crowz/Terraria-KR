@@ -1,0 +1,33 @@
+{
+    "PirateChatter": {
+        "Chatter_1": "About time we gotta barkeep around here! Me rum was almost gone!"
+    },
+    "PirateSpecialText": {
+        "Graveyard1": "Arr... hate to say it, but many me mateys put these holes in the ground... if ye catch me drift!",
+        "Graveyard2": "Hardee harr... the sea be a pirate's graveyard! Ye landlubbers waste ye time!",
+        "Party": "After all that cake, you might have to call me White Beard for a while.",
+        "Rain1": "Ha har! Rain!? Jus' another day fer a pirate.",
+        "Rain2": "Fish do fly in ye rainy skies! I seen it with me own eye!",
+        "Storm1": "Ahoy! Brace fer impact, swashbuckler! 'Tis a'mother of all tempests!",
+        "Storm2": "Great Charybdis! What manner of wrath er curses have ye sent on us now!?",
+        "Windy1": "Hoist the sails, ye curs! We pirates startin' a leg of a race! Yarharharr!",
+        "Windy2": "All hands on deck! A storm of wind be brewin'!"
+    },
+    "TownNPCMood_Pirate": {
+        "Content": "Yarr. I be in ship shape!",
+        "DislikeBiome": "Argh, {BiomeName} be a bit cramped for me style, ye scurvy dog!",
+        "DislikeCrowded": "Avast! Too many landlubbers on me ship be foulin' my mood.",
+        "DislikeNPC": "Ye know me don't like that {NPCName} tries to cut me beard, I've slit scurvy throats fer less!",
+        "FarFromHome": "Me bed and me rum be callin' me name back home.",
+        "HateBiome": "Arr, {BiomeName} be the foulest chunk 'o dry land ever traversed!",
+        "HateCrowded": "Ye too hate the feelin' that a mutiny be comin'? Too many scallywags gettin' close to me quarters.",
+        "HateNPC": "Me want to make {NPCName} walk ye plank, sea dog! Hate the coddlin' and the dastardly smell!",
+        "LikeBiome": "Hardy har har, matey, {BiomeName} is me true home!",
+        "LikeNPC": "Har Har! Melikes how {NPCName} brings ye best bottle o' rum.",
+        "LikeNPC_Princess": "Yarr, {NPCName}'d fetch a hefty reward on the seas... jus' kidding, she's me favorite lass.",
+        "LoveBiome": "I love {BiomeName}.",
+        "LoveNPC": "Ahoy, me takes {NPCName} under me wing, landlubber. Me love raisin' sea pups!",
+        "LoveSpace": "'Tis like having me very own galleon, matey!",
+        "NoHome": "The open sea's me true home, but if I be landlocked for awhile... well I need me shelter, matey."
+    }
+}

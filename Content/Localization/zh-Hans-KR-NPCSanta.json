@@ -1,0 +1,27 @@
+{
+    "SantaSpecialText": {
+        "Graveyard1": "Ho ho ho! Wait, look at this place... did I come two months too early!?",
+        "Graveyard2": "Naughty or Nice? Hm, how unusual... the people here have all been crossed off my list for some time now.",
+        "Party": "Come now, you didn't think I only celebrated on Christmas did you?",
+        "Rain1": "Got a torch? If so, won't you guide my sleigh tonight?!",
+        "Storm1": "Oh ho... whoah! There goes Dasher. There went Donner, too!",
+        "Windy1": "Ho ho! My reindeer will fly at mach speeds, tonight!"
+    },
+    "TownNPCMood_SantaClaus": {
+        "Content": "I am jolly!",
+        "DislikeBiome": "I dislike {BiomeName}.",
+        "DislikeCrowded": "I prefer to work alone, in the presence of just my elves. I dislike all the distractions!",
+        "DislikeNPC": "I dislike being around{NPCName}.",
+        "FarFromHome": "Hello there! I'm far from my temporary home!",
+        "HateBiome": "I'm adding you to the naughty list for putting me in a awful place like {BiomeName}.",
+        "HateCrowded": "This is a pretty big crowd, each and every one on the naughty list. I hate carrying that heavy bag of coal!",
+        "HateNPC": "I hate people who don't believe in me! For example, {NPCName}, the naughtiest I've ever known!",
+        "LikeBiome": "I like {BiomeName}.",
+        "LikeNPC": "I like being around {NPCName}.",
+        "LikeNPC_Princess": "Ho ho ho, {NPCName} is most certainly on top of the nice list. ",
+        "LoveBiome": "I absolutely love it here! Are you surprised? Who thought I wouldn't like {BiomeName}?",
+        "LoveNPC": "I love being around {NPCName}.",
+        "LoveSpace": "Ho ho ho! Just me and my elves, a perfect place for my remote workshop.",
+        "NoHome": "I can't just go back to the north pole when I please, ho ho ho! Think you can spot me a temporary house?"
+    }
+}

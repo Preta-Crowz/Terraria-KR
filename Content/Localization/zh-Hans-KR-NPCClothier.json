@@ -1,0 +1,30 @@
+{
+    "ClothierSpecialText": {
+        "Graveyard1": "I've been cursed! Take me to the hospital!",
+        "Graveyard2": "It's a big graveyard, we'll divide it up! The dead stay in their half, we'll stay in ours!",
+        "Party": "Mama always said you've got to put the past behind you before you can party on.",
+        "Rain1": "It's raining alright! Little bitty stingin' big ol' fat sideways rain! At least it ain't coming from straight up underneath us!",
+        "Rain2": "One day it started raining like this, and it didn't quit for four days!",
+        "Storm1": "Remember to keep breathing, because eventually this storm will pass!",
+        "Storm2": "If it wasn't storming, everyone would go outside. It's the lightning that makes it dangerous.",
+        "Windy1": "Sometimes, I guess there's just not enough windmills.",
+        "Windy2": "The air has certainly got it, today!"
+    },
+    "TownNPCMood_Clothier": {
+        "Content": "What's normal, anyways?",
+        "DislikeBiome": "There just aren't enough dark rooms in {BiomeName}.",
+        "DislikeCrowded": "The local population is like living with dead weight on my back.",
+        "DislikeNPC": "For some reason, being around {NPCName} makes me feel uneasy.",
+        "FarFromHome": "It's a highly tedious procedure, cranking out a spyglass and looking for my house.",
+        "HateBiome": "My soul feels torn here in {BiomeName}, as if my very being is at war between good and evil.",
+        "HateCrowded": "Overcrowding is as overcrowding does.",
+        "HateNPC": "I hate {NPCName} and I don't know why.",
+        "LikeBiome": "Seeing is believing, but sometimes the most likeable things are in {BiomeName}.",
+        "LikeNPC": "I can't quite place it, but I find {NPCName} fascinating.",
+        "LikeNPC_Princess": "There's no greater joy than seen through the eyes of {NPCName}!",
+        "LoveBiome": "I love {BiomeName}.",
+        "LoveNPC": "{NPCName}? I hadn't seen anything so delicious in my life.",
+        "LoveSpace": "I'm not a popular man, but I know what tranquility is.",
+        "NoHome": "No home at all? I will not be subjected to criminal abuse!"
+    }
+}

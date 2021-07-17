@@ -1,0 +1,90 @@
+{
+    "BunnyChatter": {
+        "Chatter_1": "*Rabbit noises*",
+        "Chatter_2": "*Bunny noises*"
+    },
+    "BunnyNames_Angora": {
+        "Babs": "Babs",
+        "BigB": "Big B",
+        "Breadbuns": "Breadbuns",
+        "Donald": "Donald",
+        "Fluffy": "Fluffy",
+        "Greg": "Greg",
+        "Loaf": "Loaf",
+        "Maximus": "Maximus",
+        "Muffin": "Muffin",
+        "Pom": "Pom"
+    },
+    "BunnyNames_Dutch": {
+        "Domino": "Domino",
+        "Kaguya": "Kaguya",
+        "Mono": "Mono",
+        "Olaf": "Olaf",
+        "Oreo": "Oreo",
+        "Orin": "Orin",
+        "Oz": "Oz",
+        "Panda": "Panda",
+        "Pow": "Pow",
+        "Yang": "Yang",
+        "Yin": "Yin"
+    },
+    "BunnyNames_Flemish": {
+        "Cinnabun": "Cinnabun",
+        "Daisy": "Daisy",
+        "Dusty": "Dusty",
+        "Hazel": "Hazel",
+        "Honeycomb": "Honeycomb",
+        "Jazz": "Jazz",
+        "Loki": "Loki",
+        "Peter": "Peter",
+        "Russell": "Russell",
+        "Sunflower": "Sunflower",
+        "Thumper": "Thumper",
+        "Toby": "Toby"
+    },
+    "BunnyNames_Lop": {
+        "Boof": "Boof",
+        "Bunbun": "Bunbun",
+        "Caerbannog": "Caerbannog",
+        "Dandy": "Dandy",
+        "Flappie": "Flappie",
+        "Flops": "Flops",
+        "Lola": "Lola",
+        "Max": "Max",
+        "Mochi": "Mochi",
+        "Puff": "Puff",
+        "Tyler": "Tyler",
+        "Veidra": "Veidra",
+        "Youp": "Youp"
+    },
+    "BunnyNames_Silver": {
+        "Bugz": "Bugz",
+        "Bunnykins": "Bunnykins",
+        "Bunstar": "Bunstar",
+        "Buster": "Buster",
+        "Chrome": "Chrome",
+        "Crystal": "Crystal",
+        "Dustbunny": "Dustbunny",
+        "Dusty": "Dusty",
+        "Joshua": "Joshua",
+        "Lord": "Lord",
+        "Silvine": "Silvine",
+        "Vincent": "Vincent",
+        "Zach": "Zach"
+    },
+    "BunnyNames_White": {
+        "Alice": "Alice",
+        "Ben": "Ben",
+        "Bunnicula": "Bunnicula",
+        "Donnie": "Donnie",
+        "Inaba": "Inaba",
+        "Lilia": "Lilia",
+        "Lily": "Lily",
+        "Lisette": "Lisette",
+        "Presto": "Presto",
+        "Roger": "Roger",
+        "Shion": "Shion",
+        "Shirayuki": "Shirayuki",
+        "Skippy": "Skippy"
+    }
+}

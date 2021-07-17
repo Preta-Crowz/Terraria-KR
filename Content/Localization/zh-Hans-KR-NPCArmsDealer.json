@@ -1,0 +1,30 @@
+{
+    "ArmsDealerSpecialText": {
+        "Graveyard1": "I hate places like this. I can't kill what's already dead!",
+        "Graveyard2": "If you see any suspicious activity out in that fog, I wasn't involved.",
+        "Party": "Parties are great for getting people to come out of their shell, just like with bullets.",
+        "Rain1": "Heard a rumor that some clouds are literally out to get you! Show 'em who's boss with one of my guns!",
+        "Rain2": "Flying fish? I call that target practice!",
+        "Storm1": "A lightning gun? Don't have time for that, man. I love my bullets!",
+        "Storm2": "If you time it right, no one will hear your gunshots with the thunder.",
+        "Windy1": "Was tryin' out my new gun, but the wind kept me off target!",
+        "Windy2": "Don't spray and pray in the wind, buddy!"
+    },
+    "TownNPCMood_ArmsDealer": {
+        "Content": "I'm good, buddy!",
+        "DislikeBiome": "Yeah, no, {BiomeName} makes me very uncomfortable.",
+        "DislikeCrowded": "Shh, I think there's some people nearby, don't like doin' my deals here.",
+        "DislikeNPC": "I don't really like {NPCName} bein' on my turf, ya know?",
+        "FarFromHome": "I don't like doin' business this far from home.",
+        "HateBiome": "I hate {BiomeName} - hunting isn't quite as fun if you're the prey!",
+        "HateCrowded": "Hey, I can't do what I do with so many people watchin' me.",
+        "HateNPC": "I'd REALLY like to use {NPCName} as a range target sometime.",
+        "LikeBiome": "Ya know, {BiomeName} is secluded and great for business, if you catch my drift.",
+        "LikeNPC": "Yeah, I like {NPCName}, wicked cool person.",
+        "LikeNPC_Princess": "I never would have expected it, man, but {NPCName} knows her way around a gun!",
+        "LoveBiome": "I love {BiomeName}.",
+        "LoveNPC": "Think {NPCName} ever, ya know, checks me out?",
+        "LoveSpace": "This is what I'm talkin' about, privacy!",
+        "NoHome": "I don't have a place to stay, pal!"
+    }
+}

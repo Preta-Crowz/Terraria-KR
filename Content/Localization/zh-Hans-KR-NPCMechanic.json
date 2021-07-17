@@ -1,0 +1,33 @@
+{
+    "MechanicChatter": {
+        "Chatter_1": "{Bartender} offered me a Root Beer, I told him to give it to me in a square cup."
+    },
+    "MechanicSpecialText": {
+        "Graveyard1": "I should light up this dark and scary place to keep the monsters away.",
+        "Graveyard2": "I'd run some wire here, but the spooky dead things are in the way!",
+        "Party": "Do you think anyone would mind if I wired a cake with bulbs instead of candles?",
+        "Rain1": "If it doesn't stop raining, my wrench is going to get all rusty!",
+        "Rain2": "Oh Fudge! Shorted out another outlet! I hate this weather.",
+        "Storm1": "Great! There goes another pump. When will the lightning stop frying my equipment?!",
+        "Storm2": "Don't go outside right now while holding any of my products, you'll attract an unwanted dose of electrical power!",
+        "Windy1": "Oh no! There are pockets of low pressure rolling in, I must secure the power grid.",
+        "Windy2": "My wires are getting tangled in this cyclone. Watch where you step!"
+    },
+    "TownNPCMood_Mechanic": {
+        "Content": "Everything's working correctly - oh, me? Yeah I'm fine!",
+        "DislikeBiome": "I don't like {BiomeName}, it reminds me of a traumatic experience!",
+        "DislikeCrowded": "The flickering lights are bothering me. Is there a load on the grid?",
+        "DislikeNPC": "I don't really like that {NPCName} won't leave me alone!",
+        "FarFromHome": "Oh, it seems I'm out of signal range! Hmm.",
+        "HateBiome": "I feel extremely uncomfortable in {BiomeName}, as if creeping eyes are always watching me.",
+        "HateCrowded": "I'm going to need a way bigger power source for THIS MANY people, I hate it!",
+        "HateNPC": "I hate how {NPCName} doesn't know how to treat a woman!",
+        "LikeBiome": "I like {BiomeName}, machines don't overheat here, and the energy flow is efficient.",
+        "LikeNPC": "I feel like I understand {NPCName} better than anyone else.",
+        "LikeNPC_Princess": "{NPCName} hotwired one of my pumps, I'm super impressed!",
+        "LoveBiome": "I love {BiomeName}.",
+        "LoveNPC": "Umm... {NPCName} makes my heart flutter, I need to get that checked!",
+        "LoveSpace": "Perfect, no one is in the way for building infrastructure.",
+        "NoHome": "I need some sort of structure to run these wires through."
+    }
+}

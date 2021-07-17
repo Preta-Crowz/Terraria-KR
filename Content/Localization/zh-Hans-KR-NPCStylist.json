@@ -1,0 +1,33 @@
+{
+    "StylistChatter": {
+        "Chatter_1": "I offered {Bartender} a free trim, but he refused. I mean, I could have at least worked on his mustache!"
+    },
+    "StylistSpecialText": {
+        "Graveyard1": "Eek! This deathly atmosphere is ruining my perm!",
+        "Graveyard2": "I kinda want to go out there and collect heads of hair for wigs, but I kinda don't want to GO OUT THERE!",
+        "Party": "I may have gotten my hair done up just for today, but honestly, I just want to pop balloons with my scissors.",
+        "Rain1": "That totally will not do. Soggy rat is not a hairstyle!",
+        "Rain2": "What?! It's raining? I just got a perm!",
+        "Storm1": "I'm staying inside! The Einstein look is NOT in fashion.",
+        "Storm2": "Like, really? This crazy storm is bad for business!",
+        "Windy1": "Want windswept hair? Go outside, it's free.",
+        "Windy2": "Ugh! I should just take the day off, this wind will blow away all my hard work!"
+    },
+    "TownNPCMood_Stylist": {
+        "Content": "I'm feeling fresh today.",
+        "DislikeBiome": "Hun, I don't like it here in {BiomeName}, how can anyone show off their hair when it's so cold?",
+        "DislikeCrowded": "Am I hearing spiders? Oh, just noisy neighbors, I don't like that.",
+        "DislikeNPC": "I tried to work on {NPCName}, but was rudely rejected, I don't like stubborn people!",
+        "FarFromHome": "I'm too far from my tools...",
+        "HateBiome": "Ugh, {BiomeName} is causing severe damage to my hair!",
+        "HateCrowded": "I absolutely cannot stand having so many people living around me, I can't focus.",
+        "HateNPC": "I hate {NPCName}, how can you literally NOT grow hair?",
+        "LikeBiome": "It's nice, calm atmosphere for cutting hair in {BiomeName}.",
+        "LikeNPC": "{NPCName} is strong and mysterious. I like that.",
+        "LikeNPC_Princess": "I can't even touch {NPCName}'s hair, it's too perfect!",
+        "LoveBiome": "I love {BiomeName}.",
+        "LoveNPC": "{NPCName} is quite the looker... so exotic... I think I'm in love...",
+        "LoveSpace": "Lovely, I get to keep to myself and study my technique without distraction.",
+        "NoHome": "Sorry hun, I can't style hair without a place to set up my station."
+    }
+}

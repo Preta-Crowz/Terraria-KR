@@ -1,0 +1,30 @@
+{
+    "SteampunkerSpecialText": {
+        "Graveyard1": "Golly! What uncultured swine decided to break ground here?",
+        "Graveyard2": "Neither blood nor steam pumps in this miserable locale.",
+        "Party": "Everyone said they like stacked cakes, so I installed smokestacks in mine",
+        "Rain1": "The rain is a double edged sword you see... It provides us water for steam, but it also rusts our equipment.",
+        "Rain2": "This bloody downpour! I can't get a lick of anything done when it's all wet!",
+        "Storm1": "Electricity? Don't be ludicrous! Nothing beats the power of steam!",
+        "Storm2": "Everything I tinker up is made of metal. This current situation surely is a cause for rethinking that!",
+        "Windy1": "Ahh... a sip of tea to enjoy the breeze.",
+        "Windy2": "Why, this windy phenomena has inspired me ideas for a new jetpack engine!"
+    },
+    "TownNPCMood_Steampunker": {
+        "Content": "I am jolly good.",
+        "DislikeBiome": "The shrubbery and mess of {BiomeName} really grinds my gears!",
+        "DislikeCrowded": "I dinnae like being surrounded by folk, much.",
+        "DislikeNPC": "{NPCName} is too otherworldly! I dinnae like them much.",
+        "FarFromHome": "I'm wee far from home, an' I forgot my bloody motor!",
+        "HateBiome": "Truly, {BiomeName} is uncultured and unsightly - nevermind perilous!",
+        "HateCrowded": "Oi, I absolutely hate crowded quarters!",
+        "HateNPC": "I hate being near {NPCName}.",
+        "LikeBiome": "I prefer the wide open spaces here in {BiomeName}, great for jetpack joyrides!",
+        "LikeNPC": "{NPCName} is a likeable sort who helps me spruce up my inventions.",
+        "LikeNPC_Princess": "The jolly {NPCName} volunteered to try my new teleporter, I love an enthusiastic assistant!",
+        "LoveBiome": "I love {BiomeName}.",
+        "LoveNPC": "I love how unique and interesting {NPCName} truly is, remarkable!",
+        "LoveSpace": "Plenty o' room just for me and some good steam engines!",
+        "NoHome": "I could use a flat to bide in."
+    }
+}

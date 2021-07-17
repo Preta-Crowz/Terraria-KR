@@ -1,0 +1,82 @@
+{
+    "GolferChatter": {
+        "Chatter_1": "I'm not the type to scream and thrash around just because my ball lands in the water. I stay calm, and collected, and focus on the next shot.",
+        "Chatter_10": "Landscapers must make a lot of green off us golfers. Heh!",
+        "Chatter_11": "{Armsdealer} has mistaken my golf balls as ammo for his musket on several occasions.",
+        "Chatter_12": "According to {Dryad}, I'm murdering a lot of her friends when I mow the lawn. I gotta have a fairway for my course!",
+        "Chatter_13": "If you land on the green, use a putter! Don't let your balls go flying away when you're THAT close.",
+        "Chatter_14": "Don't go chasing water hazards, please stick to the fairways and greens that you're used to.",
+        "Chatter_15": "{?BloodMoon}The blood stains on my club? Have you seen the zombies outside?!",
+        "Chatter_16": "{?BloodMoon}I don't know what's scarier, a Blood Moon or my sister during a Blood Moon!",
+        "Chatter_17": "{?Rain}Golfing in THIS weather?! Only if you like swinging around a giant lightning rod!",
+        "Chatter_2": "Huh? You eat WHAT for breakfast?",
+        "Chatter_3": "An early bird catches the worm, but an early hole catches the birdie.",
+        "Chatter_4": "Lick your finger and hold it to the wind. Golf balls are lightweight and easily influenced by a breeze.",
+        "Chatter_5": "If sand is causing you nightmares, your wedge is your dreamcatcher.",
+        "Chatter_6": "Should I take up fishing? Bribing {Angler} to fetch my balls out of the water is emptying my wallet!",
+        "Chatter_7": "To strike high, strike far, or to get unstuck? It's all about the club you use. Choose wisely!",
+        "Chatter_8": "When I offer you to go clubbing, I don't mean downtown. I mean like, with a five iron?",
+        "Chatter_9": "In this game, only losers go for that high score."
+    },
+    "GolferNames": {
+        "Name_1": "Lion Pines",
+        "Name_2": "Gunner McLovin",
+        "Name_3": "Harry Madison",
+        "Name_4": "Arnie Palmfrond",
+        "Name_5": "Jake Nicklelisp",
+        "Name_6": "William",
+        "Name_7": "Billy Bones",
+        "Name_8": "Jim Mulligan"
+    },
+    "GolferQuestsChatterApprentice": {
+        "1": "You're getting better! I am not fearing for my life anymore.",
+        "2": "Those are rather mediocre swings. Almost par for the course, if I must say.",
+        "3": "Not quite champion level, but you'll do."
+    },
+    "GolferQuestsChatterBeginner": {
+        "1": "If you keep swinging like that, you'll end up hurting someone... or yourself!",
+        "2": "You're going to need a lot of practice, I strongly recommend padding.",
+        "3": "That poor bird. Duck is tasty, however, so don't give up!"
+    },
+    "GolferQuestsChatterJourneyman": {
+        "1": "I'm impressed. Statistically, you are a wedge above the rest!",
+        "2": "You're doing a good job out there! Should I be worried?",
+        "3": "Your courses are well below par. That's a good thing!"
+    },
+    "GolferQuestsChatterMaster": {
+        "1": "You are a God walking among mere mortals! A spectacular golfer!",
+        "2": "If I had a trophy to give for your amazing swings, I'd give you ten!",
+        "3": "What a breathtaking golfer! You may be at the top, but never stop reaching for it!"
+    },
+    "GolferSpecialText": {
+        "FirstMeeting1": "Thank you for the rescue. If I were trapped out here any longer, I could have come down with a heat stroke!",
+        "FirstMeeting2": "Why, thank you! I've been stuck in this sand pit for days. Good thing you can get water out of a cactus.",
+        "Graveyard1": "Graveyards creep me out. I don't like practicing my swings on top of my family and friends.",
+        "Graveyard2": "Don't play golf in a cemetery. The grass grows too efficiently and makes the entire course rough.",
+        "Party_1": "I'm having trouble concentrating on this swing because of the obnoxious party going on around me.",
+        "Party_2": "I hit a hole in one! That's a good reason for us all to celebrate. Time to put my club down and have a margarita.",
+        "Rain1": "Golfing in the rain is less fun. Everything is all slippery!",
+        "Rain2": "Water hazards are a lot larger when it rains, making it that much harder to reach the green!",
+        "Storm1": "I don't think so, {PlayerName}.",
+        "Storm2": "The odds of being struck by lightning are the same as the lottery. Going outside swinging an iron is a winning ticket!",
+        "Windy1": "This wind makes for a very difficult course.",
+        "Windy2": "A strong gale adds challenge to a game of golf, but this is rather excessive."
+    },
+    "TownNPCMood_Golfer": {
+        "Content": "I'm doing fine!",
+        "DislikeBiome": "Tell me something. How am I supposed to golf in a place like {BiomeName}?",
+        "DislikeCrowded": "Golf is a sport best enjoyed solo. I dislike my life not being the same way.",
+        "DislikeNPC": "I dislike being around {NPCName}. Makes me feel uneasy.",
+        "FarFromHome": "I think I've wandered off course. That is not a smart move.",
+        "HateBiome": "I especially think it's unwise to hang around a place like {BiomeName}.",
+        "HateCrowded": "Hate to say it, but I rather hate all the foot traffic here.",
+        "HateNPC": "I hate {NPCName}'s greedy attitude. It's pretty unnecessary in a world like this.",
+        "LikeBiome": "I like {BiomeName}. It has all the necessary features for golfing.",
+        "LikeNPC": "It's always fun to hang out with {NPCName}. Good people.",
+        "LikeNPC_Princess": "I tried to teach {NPCName} a few slick golf tricks, but she schooled me instead! I like her.",
+        "LoveBiome": "I love {BiomeName}.",
+        "LoveNPC": "Unpopular opinion: I quite love having {NPCName} around. I get my water hazards returned to me!",
+        "LoveSpace": "Nothing better than having all this space to yourself.",
+        "NoHome": "I need a place to hang up my clubs."
+    }
+}

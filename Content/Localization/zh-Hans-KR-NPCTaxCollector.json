@@ -1,0 +1,29 @@
+{
+    "TaxCollectorSpecialText": {
+        "Graveyard1": "Death and taxes, nothing more sure in life than that!",
+        "Graveyard2": "The people here aren't paying up! They are better off dead! Oh, perhaps they already are.",
+        "Rain1": "Humbug! Someone tried to tell me they saw a fish walking on land. Who do they take ME for?!",
+        "Rain2": "Why can't it be raining gold coins!? Water is everywhere! Bah, how useless!",
+        "Storm1": "A marvelous storm! A remarkable storm!",
+        "Storm2": "I am as giddy as a drunken man! I love this weather!",
+        "Windy1": "Just because your house blows down, doesn't mean you stop paying taxes!",
+        "Windy2": "Bah! If this wind keeps up, people will lose their precious possessions and stop paying me!"
+    },
+    "TownNPCMood_TaxCollector": {
+        "Content": "What? I AM in a good mood.",
+        "DislikeBiome": "What kind of irritating place is {BiomeName}? Poppycock, I tell you!",
+        "DislikeCrowded": "I'll have you know, I dislike neighbors!",
+        "DislikeNPC": "{NPCName} is just too noisy, away with them and their ilk!",
+        "FarFromHome": "Bah! I'm trying to make my way back home to count my money. Begone!",
+        "HateBiome": "Even for my standard, {BiomeName} is beyond miserable! Bah!",
+        "HateCrowded": "Go tell all these miserable poor freeloaders to scram, I hate crowds.",
+        "HateNPC": "I loathe the very existence of {NPCName}! What kind of lunatic just gives things away for free?",
+        "LikeBiome": "Living in {BiomeName} forces people to stay indoors and leave me alone. I find that pleasant.",
+        "LikeNPC": "Exuberant people tend to give me a headache, but somehow I actually like {NPCName}. I must be losing my mind!",
+        "LikeNPC_Princess": "{NPCName} shouldn't pay taxes, she's the princess... but she insisted.",
+        "LoveBiome": "I love {BiomeName}.",
+        "LoveNPC": "I highly admire {NPCName}. Anyone who knows the true value of money earns my utmost respect!",
+        "LoveSpace": "Finally, isolation from all these miserable peasants!",
+        "NoHome": "How can a man of my riches have no home? Preposterous!"
+    }
+}

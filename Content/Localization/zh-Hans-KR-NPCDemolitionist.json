@@ -1,0 +1,31 @@
+{
+    "DemolitionistSpecialText": {
+        "AfterDD2Start": "I don't see why we can't just blow up those portals.",
+        "Graveyard1": "The stench of death here is worse than the skeleton-infested caverns where I work!",
+        "Graveyard2": "All these piles of bones and stones... perfect for blowin' up!",
+        "Party": "You might want to be careful today. Us dwarves tend to have pretty explosive parties.",
+        "Rain1": "This is a terrible day to be a dwarf.",
+        "Rain2": "ARGH! Another fuse put out by all this wet stuff! This never happens underground!",
+        "Storm1": "BOOM! Even mother nature likes a taste of gratifying demolition!",
+        "Storm2": "You shoulda seen it when lightning struck one of my carts filled with explosives!",
+        "Windy1": "Now might not be the best time to lob grenades on the surface, my tall friend!",
+        "Windy2": "You want boomerang bombs? Throw some out in that gust, they'll come back to you alright!"
+    },
+    "TownNPCMood_Demolitionist": {
+        "Content": "Well, I don't feel like exploding today!",
+        "DislikeBiome": "I can't stand {BiomeName}, my fuses have trouble igniting here!",
+        "DislikeCrowded": "I dislike the number of people here, for safety reasons, of course...",
+        "DislikeNPC": "I wanna strap {NPCName} to a rocket and watch what happens!",
+        "FarFromHome": "I need more BOOM, I think I left it way back at home.",
+        "HateBiome": "It reeks of death and malice in {BiomeName}, I wanna blasts holes everywhere!",
+        "HateCrowded": "Too many people around! One mistake making dynamite, and... well, they'd HATE the outcome!",
+        "HateNPC": "I hate being around {NPCName}.",
+        "LikeBiome": "Dwarves are naturally drawn to {BiomeName}, it's in our blood!",
+        "LikeNPC": "{NPCName} is a good friend I like, helps me load the gunpowder!",
+        "LikeNPC_Princess": "WHAT... {NPCName}? Is that a new brand of nitro? Oh, HER, Yes, good lass!",
+        "LoveBiome": "I love {BiomeName}.",
+        "LoveNPC": "I love how well {NPCName} can handle a container of fireball!",
+        "LoveSpace": "Ah, no one around - I can test new bombs without creating a graveyard for limbs!",
+        "NoHome": "I don't have a place to live, did I blow up my last one?"
+    }
+}

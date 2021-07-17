@@ -1,0 +1,31 @@
+{
+    "WitchDoctorSpecialText": {
+        "AfterDD2Tier1": "I sense a kindred spirit in the Etherian Dark Mages. A pity they are our enemies, I would have liked to learn from them.",
+        "Graveyard1": "Rise, zombie! Zombie, arise!",
+        "Graveyard2": "You may remove the reaper from the cemetery, but you may not remove the cemetery from the reaper...",
+        "Party": "I wanted to see how your kind celebrate, I am not disappointed.",
+        "Rain1": "The sound of rain is soothing to the soul.",
+        "Rain2": "Balance is key. We need sun, we need rain. Too much of either leads to ruin.",
+        "Storm1": "The spirits sound loudly this day, in blinding majesty.",
+        "Storm2": "Lightning casts powerful shadows, shadows cast powerful lightning.",
+        "Windy1": "Keep your talismans close... if you wind some, you lose some.",
+        "Windy2": "The wind blows with the leaves, the leaves blow with the wind."
+    },
+    "TownNPCMood_WitchDoctor": {
+        "Content": "I embody contentedness.",
+        "DislikeBiome": "The magicks of {BiomeName} are of oppression, not true purity, my heart and soul are enraged.",
+        "DislikeCrowded": "The close presence of others disrupts my juju and comfort.",
+        "DislikeNPC": "I dislike the practices of {NPCName}. True healing cannot come from metal and glass.",
+        "FarFromHome": "I have strayed far from my calm place.",
+        "HateBiome": "I sense a grim evil pervading the land and all living things in {BiomeName}.",
+        "HateCrowded": "Too many of your kind are gathering too near, growing much malice in my soul.",
+        "HateNPC": "Fury fills my being as abominations sprout from tainted earth - I speak of {NPCName}.",
+        "LikeBiome": "I cannot fathom existing elsewhere, {BiomeName} is the center of my voodoo spirits.",
+        "LikeNPC": "{NPCName} is a kindred spirit of nature, my soul is at peace in their presence.",
+        "LikeNPC_Princess": "Kind to my people, {NPCName} is. Much appreciated. ",
+        "LoveBiome": "I love {BiomeName}.",
+        "LoveNPC": "I love being around {NPCName}.",
+        "LoveSpace": "Strong energy flows through unimpeded by neighboring presence, very pleasant.",
+        "NoHome": "A hut would suffice. Not all of my surroundings embrace tranquility."
+    }
+}

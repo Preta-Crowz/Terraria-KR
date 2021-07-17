@@ -1,0 +1,38 @@
+{
+    "PartyGirlSpecialText": {
+        "AfterDD2Tier1": "Have you seen an ogre yet? I want to ride on the back of one!",
+        "Cake1": "Where ya been!? There's a total party going on! Here, take the cake!",
+        "Cake2": "Shhh! Don't tell ANYONE I gave you this! It's a party surprise!",
+        "Cake3": "Party up! You're like, in charge of the cake, {PlayerName}!",
+        "Graveyard1": "Woo hoo! It's party time! ...Uh, why isn't anyone moving?",
+        "Graveyard2": "We should party so loud that we LITERALLY wake the dead! Hee hee!",
+        "Music1": "Are the tunes killing your party? I'll shuffle the playlist for you.",
+        "Music2": "I think this party could use a switch-up! How about these jams?",
+        "Music3": "We've been partying to this song for years! Let's change it up!",
+        "Party_1": "Hmm? Nothing special today... just kidding! It's party time, and then it's after party time!",
+        "Party_2": "At last, my time has come!",
+        "Rain1": "It's raining outside! Come on in and party!",
+        "Rain2": "Oh, are you all wet? Well, shake it off!",
+        "Storm1": "There was a sudden crash of thunder at the disco, and I panicked!",
+        "Storm2": "Let's dance! We can shake our hips to the beat of the sky!",
+        "Windy1": "Did somebody say hurricane party!? I'll bring the batteries!",
+        "Windy2": "This is like, an amazing time to fling confetti everywhere!"
+    },
+    "TownNPCMood_PartyGirl": {
+        "Content": "I'm in my best party mood!",
+        "DislikeBiome": "Ew, it's so drab in {BiomeName}. How can you party in a place like this?",
+        "DislikeCrowded": "There's a lot of people around me, but I don't like that they aren't partying!",
+        "DislikeNPC": "I think {NPCName} is a killjoy at parties.",
+        "FarFromHome": "My party favors, I forgot them at home. Wow, it's pretty far!",
+        "HateBiome": "Yeesh, {BiomeName} is literally murdering my party vibe.",
+        "HateCrowded": "Wow, there's so many people here, I hate that it's not for a party.",
+        "HateNPC": "I hate how {NPCName} always tries to shut down my after-parties. What a grump!",
+        "LikeBiome": "Why do I like {BiomeName}? Because it has RAINBOWS!",
+        "LikeNPC": "I totally like {NPCName}'s party style.",
+        "LikeNPC_Princess": "YES, {NPCName} loves pink and bright, glittery things, SHE LOVES TO PARTY! ",
+        "LoveBiome": "I love {BiomeName}.",
+        "LoveNPC": "I love that {NPCName} always dazzles at my parties.",
+        "LoveSpace": "This is all mine? I'm gonna throw the BIGGEST party - for myself!",
+        "NoHome": "I'm ready to party, but I don't have a house for the after-party."
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "CyborgChatter": {
+        "Chatter_1": "{Bartender} said I reminded him of a certain \"EV2\". Perhaps I should meet her."
+    },
+    "CyborgSpecialText": {
+        "Graveyard1": "Fascinating. This appears to be a storage unit for broken and malfunctioning humans.",
+        "Graveyard2": "My sensors indicate an increased density of energy particles. My visual receptors are unable to identify any of them.",
+        "Party": "This party is going to be nuts, maybe even bolts!",
+        "Rain1": "Precipitation detected. Advising self to seek shelter. Rust imminent.",
+        "Rain2": "Flash flood warning. Error 404: Sandbags not found.",
+        "Storm1": "BEEP! Severe weather warning. This is not a test. Take shelter, immediately. BEEP!",
+        "Storm2": "Abnormal levels of negative and positive charged particles detected.",
+        "Windy1": "Sensors indicate strong shifts in barometric pressure. Caution is advised.",
+        "Windy2": "A strong contrast between high and low pressure detected."
+    },
+    "TownNPCMood_Cyborg": {
+        "Content": "All neural functions appear to be operating smoothly.",
+        "DislikeBiome": "The flora and fauna are invading my synthetic exoskeleton: {BiomeName} is an undesired location for myself.",
+        "DislikeCrowded": "Too many other lifeforms. I am experiencing negative emotional neural patterns.",
+        "DislikeNPC": "{NPCName} does not comprehend my existence, for it deviates from the norm. Unusual. The negative feeling is mutual.",
+        "FarFromHome": "I have wandered beyond the signal range of my datacenter.",
+        "HateBiome": "Detecting overwhelming numbers of hostile life signatures in {BiomeName}.",
+        "HateCrowded": "Lifeform limit exceeded. Neural functions overloaded. Translation: I hate this.",
+        "HateNPC": "{NPCName}'s functions cannot be scientifically analyzed. Neutral functions overloaded. Translation: I hate this.",
+        "LikeBiome": "My cybernetic functions perform optimally in {BiomeName}'s temperature gradient. This is a plus.",
+        "LikeNPC": "{NPCName} attempts to treat me favorably like another human. It appears I appreciate that.",
+        "LikeNPC_Princess": "{NPCName} analyzed: Most wholesome carbon lifeform ever recorded.",
+        "LoveBiome": "I love {BiomeName}.",
+        "LoveNPC": "I love being around {NPCName}.",
+        "LoveSpace": "Zero close proximity life signs detected. This is fortunate.",
+        "NoHome": "Error 404: Living arrangements not found."
+    }
+}
