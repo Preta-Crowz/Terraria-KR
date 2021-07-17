@@ -293,6 +293,14 @@
         "Snapped": "{0} got snapped in half",
         "TornInHalf": "{0} was torn in half"
     },
+    "DungeonDefenders2": {
+        "BartenderWarning": "The eternia crystal rejects this area and pops away instantly, the Tavernkeep mentioned it should rest in a large flat open area...",
+        "CantSummonTower": "It doesn't seem to work without an Etheria Crystal nearby...",
+        "InvasionProgressTitle": "Old One's Army",
+        "InvasionStart": "The old one's army is approaching!",
+        "InvasionWin": "The old one's army has been defeated!",
+        "WaveComplete": "Wave Complete!"
+    },
     "EmojiCommand": {
         "BiomeBeach": "/{$EmojiName.BiomeBeach}",
         "BiomeCorruption": "/{$EmojiName.BiomeCorruption}",
