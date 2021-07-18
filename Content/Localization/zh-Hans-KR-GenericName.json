@@ -40,7 +40,16 @@
         "Whip": "채찍",
         "Magic": "마법",
         "Aggro": "어그로",
+        "Arrow": "화살",
+        "Mobgen": "몬스터 스폰량",
+        "Disable": "비활성화",
+        "Dot": "지속 데미지",
+        "Place": "설치",
 
+        "PlaceSpeed": "{$GenericStat.Place} {$GenericStat.Speed}",
+        "PlaceRange": "{$GenericStat.Place} {$GenericStat.Range}",
+        "ArrowDamage": "{$GenericStat.Arrow} {$GenericStat.Damage}",
+        "ArrowSpeed": "{$GenericStat.Arrow} {$GenericStat.Speed}",
         "ManaUsage": "{$GenericStat.Mana} {$GenericStat.Usage}",
         "AmmoUsage": "{$GenericStat.Ammo} {$GenericStat.Usage}",
         "MaxMana": "{$GenericStat.Max} {$GenericStat.Mana}",
@@ -52,7 +61,7 @@
         "RangedCrit": "{$GenericStat.Ranged} {$GenericStat.Crit}",
         "MinionDamage": "{$GenericStat.Minion} {$GenericStat.Damage}",
         "MagicDamage": "{$GenericStat.Magic} {$GenericStat.Damage}",
-        "MagicDamage": "{$GenericStat.Magic} {$GenericStat.Crit}",
+        "MagicCrit": "{$GenericStat.Magic} {$GenericStat.Crit}",
         "MovementSpeed": "{$GenericStat.Movement} {$GenericStat.Speed}",
         "MoreSentry": "{$GenericStat.Sentry} {$GenericStat.Limit} {$GenericStat.Increase}",
         "MinionSlot": "{$GenericStat.Minion} {$GenericStat.Limit}",
@@ -63,6 +72,13 @@
         "AntiKnockback": "{$GenericStat.Knockback} {$GenericStat.Resist}",
         "WhipRange": "{$GenericStat.Whip} {$GenericStat.Range}",
         "WhipSpeed": "{$GenericStat.Whip} {$GenericStat.Speed}",
-        "LessAggro": "{$GenericStat.Aggro} {$GenericStat.Decrease}"
+        "LessAggro": "{$GenericStat.Aggro} {$GenericStat.Decrease}",
+        "ArmorBreak": "{$GenericStat.Defence} {$GenericStat.Decrease}",
+        "Blind": "{$GenericStat.View} {$GenericStat.Decrease}"
+    },
+    "Generic": {
+        "Minion": "소환수 :",
+        "Sentry": "소환수 :",
+        "Pet": "펫 :"
     }
 }
