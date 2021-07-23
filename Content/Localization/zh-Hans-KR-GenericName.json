@@ -80,5 +80,41 @@
         "Minion": "소환수 :",
         "Sentry": "소환수 :",
         "Pet": "펫 :"
+    },
+    "DevName": {
+        "Aaron": "Aaron"
+    },
+    "Material": {
+        "Adamantite": "아다만타이트",
+        "Amber": "엠버",
+        "Stone": "돌"
+    },
+    "ItemType": {
+        "Dye": "염료",
+        "Ingot": "주괴",
+        "Beam": "지지대",
+        "Wall": "벽",
+        "Breastplate": "흉갑",
+        "Chainsaw": "전기톱",
+        "Drill": "드릴",
+        "Forge": "용광로",
+        "Glaive": "언월도",
+        "Headgear": "헤드기어",
+        "Helmet": "헬멧",
+        "Leggings": "하갑",
+        "Mask": "마스크",
+        "Ore": "광석",
+        "Pickaxe": "곡괭이",
+        "Repeater": "리피터",
+        "Sword": "검",
+        "Waraxe": "전투도끼",
+        "Statue": "조각상",
+        "Cage": "케이지",
+        "Gemspark": "젬스파크",
+        "Block": "블럭",
+        "Hook": "갈고리",
+        "Minecart": "마인카트",
+        "Robe": "로브",
+        "Staff": "스태프"
     }
 }
