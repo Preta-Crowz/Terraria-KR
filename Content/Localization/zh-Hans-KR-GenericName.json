@@ -82,12 +82,32 @@
         "Pet": "펫 :"
     },
     "DevName": {
-        "Aaron": "Aaron"
+        "Aaron": "아론",
+        "Arkhalis": "아크할리스",
+        "Lazure": "라주르"
+    },
+    "GenericPrefix": {
+        "Ancient": "고대의",
+        "Forbbiden": "잊혀진"
     },
     "Material": {
         "Adamantite": "아다만타이트",
         "Amber": "엠버",
-        "Stone": "돌"
+        "Stone": "돌",
+        "Amethyst": "자수정",
+        "Cobalt": "코발트",
+        "Gold": "금",
+        "Hallow": "신성한",
+        "Iron": "철",
+        "Necro": "네크로",
+        "Shadow": "그림자",
+        "Bamboo": "대나무",
+        "Bee": "벌",
+        "Beetle": "풍뎅이",
+        "Blinkroot": "반짝이꽃"
+    },
+    "ColorPrefix": {
+        "Black": "검은"
     },
     "ItemType": {
         "Dye": "염료",
@@ -115,6 +135,53 @@
         "Hook": "갈고리",
         "Minecart": "마인카트",
         "Robe": "로브",
-        "Staff": "스태프"
+        "Staff": "스태프",
+        "Potion": "물약",
+        "Trophy": "트로피",
+        "Greaves": "그리브",
+        "Hood": "후드",
+        "PlateMail": "판갑",
+        "Scalemail": "비늘갑옷",
+        "Wings": "날개",
+        "Banner": "배너",
+        "Hat": "모자",
+        "Pants": "바지",
+        "Bathtub": "욕조",
+        "Bed": "침대",
+        "Bookcase": "책장",
+        "Candelabra": "촛대",
+        "Candle": "양초",
+        "Chair": "의자",
+        "Chandelier": "샹들리에",
+        "Chest": "상자",
+        "Clock": "시계",
+        "Door": "문",
+        "Dresser": "옷장",
+        "Fence": "울타리",
+        "Lamp": "램프",
+        "Lantern": "랜턴",
+        "Leaf": "잎사귀",
+        "Piano": "피아노",
+        "Platform": "발판",
+        "Sink": "싱크대",
+        "Sofa": "소파",
+        "Table": "탁자",
+        "Toilet": "변기",
+        "Workbench": "조합대",
+        "Scepter": "홀",
+        "Shirt": "셔츠",
+        "HairDye": "염색약",
+        "Counterweight": "무게추",
+        "Jar": "병",
+        "Paint": "페인트",
+        "String": "줄",
+        "Thread": "실",
+        "Whip": "채찍",
+        "PlanterBox": "화분",
+        "Seeds": "씨앗",
+        "Balloon": "풍선",
+        "Bottle": "병",
+        "Monolith": "모노리스",
+        "Fountain": "분수대"
     }
 }
