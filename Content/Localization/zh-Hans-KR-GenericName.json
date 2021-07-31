@@ -104,7 +104,9 @@
         "Bamboo": "대나무",
         "Bee": "벌",
         "Beetle": "풍뎅이",
-        "Blinkroot": "반짝이꽃"
+        "BlueDungeon": "파란 던전",
+        "Bone": "뼈",
+        "Boreal": "아한대"
     },
     "ColorPrefix": {
         "Black": "검은"
@@ -125,6 +127,7 @@
         "Mask": "마스크",
         "Ore": "광석",
         "Pickaxe": "곡괭이",
+        "Axe": "도끼",
         "Repeater": "리피터",
         "Sword": "검",
         "Waraxe": "전투도끼",
@@ -182,6 +185,18 @@
         "Balloon": "풍선",
         "Bottle": "병",
         "Monolith": "모노리스",
-        "Fountain": "분수대"
+        "Fountain": "분수대",
+        "Vase": "꽃병",
+        "Torch": "횃불",
+        "Anvil": "모루",
+        "Arrow": "화살",
+        "Campfire": "모닥불",
+        "Key": "열쇠",
+        "Wand": "완드",
+        "Wood": "나무",
+        "Bow": "활",
+        "Hammer": "망치",
+        "Relic": "유물",
+        "BossBag": "보상 주머니"
     }
 }
