@@ -109,7 +109,9 @@
         "Boreal": "아한대"
     },
     "ColorPrefix": {
-        "Black": "검은"
+        "Black": "검은",
+        "Bright": "밝은",
+        "Brown": "갈색"
     },
     "ItemType": {
         "Dye": "염료",
@@ -197,6 +199,7 @@
         "Bow": "활",
         "Hammer": "망치",
         "Relic": "유물",
-        "BossBag": "보상 주머니"
+        "BossBag": "보상 주머니",
+        "WallPaper": "벽지"
     }
 }
